@@ -1,2 +1,4 @@
 # dec0de
-Script to decode common encoded / encryption techniques 
+Script to decode common encoding / encryption techniques 
+
+
